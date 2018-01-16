@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+  <menu>
+    <report>
+      <children>
+        <narbe_final translate="title" module="narbe_final">
+          <title>Final Raport</title>
+          <sort_order>80</sort_order>
+          <action>adminhtml/final</action>
+        </narbe_final>
+      </children>
+    </report>
+  </menu>
+</config>

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<layout>
+
+    <!-- Grid -->
+    <adminhtml_final_index>
+        <reference name="menu">
+            <action method="setActive">
+                <menupath>report/final</menupath>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="narbe_final/adminhtml_final" name="final" />
+        </reference>
+    </adminhtml_final_index>
+    <adminhtml_final_grid>
+        <block type="core/text_list" name="root" output="toHtml">
+            <block type="narbe_final/adminhtml_final_grid" name="final_grid"/>
+        </block>
+    </adminhtml_final_grid>
+
+    <!-- View -->
+    <adminhtml_final_view>
+        <reference name="menu">
+            <action method="setActive">
+                <menupath>report/final</menupath>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="narbe_final/adminhtml_final_view" name="final"></block>
+        </reference>
+        <reference name="left">
+            <block type="narbe_final/adminhtml_final_view_tabs" name="final_view_tabs">
+                <!-- Visitor info -->
+                <block type="narbe_final/adminhtml_final_view_tab_detail" name="visitor_detail" template="narbe/final/view/tab/detail.phtml" />
+                <action method="addTab">
+                    <name>visitor_detail</name>
+                    <block>visitor_detail</block>
+                </action>
+            </block>
+        </reference>
+    </adminhtml_final_view>
+
+    <!-- View - Urls grid -->
+    <adminhtml_final_urls>
+        <block type="core/text_list" name="root" output="toHtml">
+            <block type="narbe_final/adminhtml_final_view_tab_url" name="final_view_tab_url"></block>
+        </block>
+    </adminhtml_final_urls>
+
+    <!-- Geoip -->
+    <adminhtml_geoip_index>
+        <reference name="menu">
+            <action method="setActive">
+                <menupath>report/final</menupath>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="narbe_final/adminhtml_geoip" template="report/grid/container.phtml" name="visitorlog.geoip.container">
+                <block type="narbe_final/adminhtml_geoip_form" name="grid.filter.form">
+                </block>
+            </block>
+        </reference>
+    </adminhtml_geoip_index>
+
+</layout>
