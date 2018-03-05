@@ -6,8 +6,23 @@
           <option name="url" value="https://github.com/Yodzimbo/NarbeFinal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Narbe@bitbucket.org/Narbe/test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Projekty\oziway" />
+    <option name="cloneParentDir" value="C:\Projekty\magentoOzi" />
+  </component>
+  <component name="HgRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://Narbe@bitbucket.org/Narbe/test" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\Wiesława\PhpstormProjects" />
   </component>
 </application>
