@@ -33,4 +33,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\Wiesława\PhpstormProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
 </application>
