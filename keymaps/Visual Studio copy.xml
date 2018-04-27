@@ -1,0 +1,13 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MoveLineDown" />
+  <action id="ShowContent" />
+  <action id="XDebugger.MoveWatchDown" />
+</keymap>
