@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f9ef2592-462b-49ee-a65c-d30076d0771d" name="Narbe" url="http://ptowalski.dev.oziway.net/">
-        <fileTransfer host="192.168.4.238" port="22" rootFolder="/home/ptowalski/public_html" accessType="SFTP">
+        <fileTransfer host="192.168.4.238" port="22" rootFolder="/home/ptowalski" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
