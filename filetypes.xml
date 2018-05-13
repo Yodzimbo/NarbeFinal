@@ -3,11 +3,12 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Narbe_GlobalSettings.xml" type="PLAIN_TEXT" />
+      <mapping pattern="oziway_homepage.phtml" type="PLAIN_TEXT" />
       <mapping pattern="Narbe_Ipreport.xml" type="PLAIN_TEXT" />
       <mapping pattern="Narbe_Report" type="XML" />
       <mapping pattern="Narbe_Questreport" type="XML" />
-      <mapping pattern="Narbe_GeoIp.xml" type="XML" />
       <mapping pattern="adminhtml" type="XML" />
+      <mapping pattern="Narbe_GeoIp.xml" type="XML" />
       <mapping pattern="system" type="XML" />
     </extensionMap>
   </component>
