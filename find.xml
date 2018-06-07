@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Test Files" />
     <option name="defaultScopeName" value="Project Test Files" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,15 +16,16 @@
       <mask>*.php</mask>
       <mask>*</mask>
       <mask>*.phtm</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phy</mask>
       <mask>*.phym</mask>
       <mask>*.pht</mask>
-      <mask>*.phtml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
