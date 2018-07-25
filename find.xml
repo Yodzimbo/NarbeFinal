@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Test Files" />
     <option name="defaultScopeName" value="Project Test Files" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -10,26 +11,26 @@
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.phy</mask>
       <mask>*.phym</mask>
       <mask>*.xm</mask>
       <mask>*.css</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.csb</mask>
-      <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
