@@ -22,7 +22,6 @@
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.csb</mask>
-      <mask>*.csv</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
@@ -30,6 +29,7 @@
       <mask>*.php</mask>
       <mask>*.p</mask>
       <mask>*.phtml</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
