@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Test Files" />
     <option name="defaultScopeName" value="Project Test Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -29,9 +28,9 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.p</mask>
-      <mask>*.phtml</mask>
       <mask>*.csv</mask>
       <mask>*.xml</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
