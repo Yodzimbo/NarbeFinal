@@ -5,6 +5,7 @@
       <mapping pattern="Narbe_GlobalSettings.xml" type="PLAIN_TEXT" />
       <mapping pattern="oziway_homepage.phtml" type="PLAIN_TEXT" />
       <mapping pattern="Narbe_Ipreport.xml" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="Narbe_Report" type="XML" />
       <mapping pattern="Narbe_Questreport" type="XML" />
       <mapping pattern="adminhtml" type="XML" />
